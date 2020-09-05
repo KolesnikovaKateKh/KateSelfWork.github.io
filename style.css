@@ -397,8 +397,9 @@ body {
     display: flex;
     align-self: center;
 }
-
-
+.button-contact-white a:hover {
+    color: white;
+}
 
 /* sm */
 @media(min-width:768px) {
